@@ -58,6 +58,6 @@
         "magnific-popup": "^1.1.0",
         "minilazyload": "^2.3.3",
         "nestedSortable": "^1.3.4",
-        "slick-carousel": "1.6.0"
+        "slick-carousel": "1.8.1"
     }
 }
