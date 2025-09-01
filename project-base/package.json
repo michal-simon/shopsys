@@ -51,7 +51,7 @@
     },
     "dependencies": {
         "@shopsys/framework": "9.0.0",
-        "codemirror": "^5.49.2",
+        "codemirror": "^6.0.0",
         "jquery-ui": "^1.12.1",
         "jquery-ui-touch-punch": "^0.2.3",
         "jquery.cookie": "^1.4.1",
